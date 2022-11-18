@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marsfella
-- 👀 I’m interested in Machine learning 
-- 🌱 I’m currently learning Machine Learning with Python and Matlab
-- 💞️ I’m looking to collaborate on Machine Learing Projects
+- 👀 I’m interested in Data Science and Machine learning 
+- 🌱 I’m currently learning Data Science and Machine Learning with Python
+- 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects
 - 📫 How to reach me - israelaina32@gmail.com
 
 <!---
